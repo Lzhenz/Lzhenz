@@ -1,5 +1,5 @@
 <div align="left"/>
-<h1 align="center">🔨Lzhez</h1>
+<h1 align="center">🔨Lzhenz</h1>
 <p align="center">I'm Lzhenz, an Android programmer, a Fullstack developer</p>
 
 ### Skills:
