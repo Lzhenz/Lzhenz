@@ -1,6 +1,6 @@
 <div align="left"/>
 <h1 align="center">🔨Lzhenz</h1>
-<p align="center">I'm Lzhenz, an Android programmer, a Fullstack developer</p>
+<p align="center">I'm Lzhenz, an Android Coder, a Fullstack Coder</p>
 
 ### Skills:
 <div align="left">
