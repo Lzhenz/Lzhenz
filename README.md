@@ -55,9 +55,8 @@
 </div>
 
 ### Github stats :
-<p>&nbsp;<img height="195px" align="center" src="https://github-readme-stats.vercel.app/api?username=Lzhenz&show_icons=true&locale=en&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=27272a" alt="Lzhenz" /></p>
 
-[![Lzhenz's github activity graph](https://github-readme-stats-fast.vercel.app/api?username=Lzhenz)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Lzhenz's github activity graph](https://github-readme-stats-fast.vercel.app/api?username=Lzhenz&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 [![Lzhenz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lzhenz&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lzhenz&theme=onedark-duo&date_format=j%2Fn%5B%2FY%5D&card_width=1100)](https://git.io/streak-stats)
