@@ -59,4 +59,4 @@
 [![Lzhenz's github activity graph](https://github-readme-stats-fast.vercel.app/api?username=Lzhenz&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 [![Lzhenz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lzhenz&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lzhenz&theme=onedark-duo&date_format=j%2Fn%5B%2FY%5D&card_width=1100)](https://git.io/streak-stats)
+### [![GitHub Streak](https://streak-stats.demolab.com?user=Lzhenz&theme=onedark-duo&date_format=j%2Fn%5B%2FY%5D&card_width=1100)](https://git.io/streak-stats)
