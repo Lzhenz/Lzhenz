@@ -1,6 +1,6 @@
 <div align="left"/>
 <h1 align="center">🔨Lzhenz</h1>
-<p align="center">I'm Lzhenz, an Android Coder, a Fullstack Coder</p>
+<p align="center">I'm Lzhenz, <del>an Android developer</del> and full‑stack engineer, and I want to become an indie hacker.</p>
 
 ### Skills:
 <div align="left">
